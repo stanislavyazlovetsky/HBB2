@@ -15,7 +15,6 @@ const user_service_1 = require("./user.service");
 const user_controller_1 = require("./user.controller");
 const heart_rate_module_1 = require("./heart-rate/heart-rate.module");
 const blood_oxygen_module_1 = require("./blood-oxygen/blood-oxygen.module");
-
 let AppModule = class AppModule {
 };
 
